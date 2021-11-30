@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-30T05:58:53.083Z</updated>
+  <updated>2021-11-30T06:53:48.793Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,11 +21,19 @@
     <link href="http://example.com/2021/11/30/%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%BB%A4%E6%B3%A2%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E4%B8%80/"/>
     <id>http://example.com/2021/11/30/%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%BB%A4%E6%B3%A2%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E4%B8%80/</id>
     <published>2021-11-30T05:58:53.000Z</published>
-    <updated>2021-11-30T05:58:53.083Z</updated>
+    <updated>2021-11-30T06:53:48.793Z</updated>
+    
+    <content type="html"><![CDATA[<p>笔记来源：B站 忠厚老实的老王-贝叶斯滤波与卡尔曼滤波系列</p><p>强烈推荐这个up的本系列视频，讲的非常清晰而且例子也很有趣！</p><p>本系列笔记都是听课笔记，以及部分个人的补充理解。请以辩证的思维看待它！毕竟听课不一定注意力完全集中，说不定里面有理解错误的地方… 希望我能在听完课的一个月以内记录完这个笔记。</p><hr><h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+    
+    
+    <summary type="html">有关贝叶斯滤波和卡尔曼滤波相关的学习笔记</summary>
     
     
     
     
+    <category term="贝叶斯" scheme="http://example.com/tags/%E8%B4%9D%E5%8F%B6%E6%96%AF/"/>
+    
+    <category term="学习笔记" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
