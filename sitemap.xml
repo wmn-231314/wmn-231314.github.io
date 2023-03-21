@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://notes.rebwmn.zone/2023/03/21/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/</loc>
+    <loc>https://notes.rebwmn.zone/about/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://notes.rebwmn.zone/about/index.html</loc>
+    <loc>https://notes.rebwmn.zone/2023/03/21/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -63,7 +63,7 @@
   </url>
   
   <url>
-    <loc>https://notes.rebwmn.zone/tags/about/</loc>
+    <loc>https://notes.rebwmn.zone/tags/about-me/</loc>
     <lastmod>2023-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
