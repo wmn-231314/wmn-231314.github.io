@@ -56,19 +56,40 @@
 
   
   <url>
-    <loc>https://notes.rebwmn.zone/tags/code-SfM/</loc>
+    <loc>https://notes.rebwmn.zone/tags/About-me/</loc>
     <lastmod>2023-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://notes.rebwmn.zone/tags/about-me/</loc>
+    <loc>https://notes.rebwmn.zone/tags/%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA/</loc>
+    <lastmod>2023-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://notes.rebwmn.zone/tags/SfM/</loc>
     <lastmod>2023-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://notes.rebwmn.zone/categories/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2023-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://notes.rebwmn.zone/categories/Code/</loc>
+    <lastmod>2023-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
