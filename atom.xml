@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zahlen&#39;s blog</title>
   
-  
+  <subtitle>Let&#39;s do something more interesting!</subtitle>
   <link href="https://notes.rebwmn.zone/atom.xml" rel="self"/>
   
   <link href="https://notes.rebwmn.zone/"/>
