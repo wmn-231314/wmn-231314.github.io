@@ -13,7 +13,7 @@ I am a graduate student pursuing my M.S. in Electrical and Computer Engineering 
 
 Feel free to reach out if you'd like to connect!
 
-My resume is linked [here](/assets/pdf/cv.pdf).
+My resume is linked [here](/files/pdf/cv.pdf).
 
 ## Selected Publications (Full publication list available [here](/publications/))
 
@@ -55,8 +55,6 @@ My resume is linked [here](/assets/pdf/cv.pdf).
                 <span style="color: gray;">Shantanu Jaiswal</span>,
                 <span style="color: gray;">Deepak Pathak</span>
         </p>
-        <p style="display: inline-block; vertical-align: top; font-size: 12px; margin-top: 1px; color: gray;">* Equal contribution</p>
-        <br>
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 5px; color: gray;">arXiv preprint, 2025</p>
         <div style="height: 1px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 10px;">
