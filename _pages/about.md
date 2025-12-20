@@ -96,6 +96,7 @@ Feel free to reach out if you'd like to connect!
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0;">Beijing, China, Sep 2019 - May 2023</p>
         <div style="height: 0px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; color: gray;">GPA: 3.9/4.0 (<span style="color: #E64545;">Top 3%</span>)</p> 
+        <div style="height: 2px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; color: gray;">Advisor: Prof. Ruipeng Gao</p>
     </div>
 </div>
