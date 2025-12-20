@@ -6,5 +6,6 @@ permalink: /publication/2024-06-01-vehicle-off-route-detection
 date: 2024-06-01
 venue: 'IEEE Transactions on Intelligent Vehicles'
 authors: 'Xuan Xiao, Weiwei Xing, Ruipeng Gao, Mengning Wu'
-paperurl: 'https://ieeexplore.ieee.org/document/xxxxx'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10568366/'
+bibtexurl: '/files/bibtex/vehicle-off-route-detection.bib'
 ---
