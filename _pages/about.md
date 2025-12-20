@@ -66,7 +66,7 @@ Feel free to reach out if you'd like to connect!
 <div class="row">
     <div class="column" style="display: inline-block; vertical-align: middle; width: 25%;">
         <div style="text-align: center;">
-            <img src="/images/cmu.png" alt="Carnegie Mellon University" style="width: 60%;">
+            <img src="/images/schools/cmu.png" alt="Carnegie Mellon University" style="width: 60%;">
         </div>
     </div>
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
@@ -85,7 +85,7 @@ Feel free to reach out if you'd like to connect!
 <div class="row">
     <div class="column" style="display: inline-block; vertical-align: middle; width: 25%;">
         <div style="text-align: center;">
-            <img src="/images/bjtu.png" alt="Beijing Jiaotong University" style="width: 60%;">
+            <img src="/images/schools/bjtu.png" alt="Beijing Jiaotong University" style="width: 60%;">
         </div>
     </div>
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
