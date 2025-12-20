@@ -11,26 +11,68 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
+<div style="margin-bottom: 20px;">
+  <label style="margin-right: 15px;">Sort by:</label>
+  <button id="sort-by-time" onclick="sortPublications('time')" style="padding: 5px 15px; margin-right: 10px; cursor: pointer; background-color: #0066cc; color: white; border: none; border-radius: 3px;">Time</button>
+  <button id="sort-by-category" onclick="sortPublications('category')" style="padding: 5px 15px; cursor: pointer; background-color: #ccc; color: black; border: none; border-radius: 3px;">Category</button>
+</div>
+
+<div id="publications-container">
+  <!-- Time-based sorting (default) -->
+  <div id="time-sort">
     {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
+      {% include publication-single.html %}
     {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  </div>
+
+  <!-- Category-based sorting -->
+  <div id="category-sort" style="display: none;">
+    {% if site.publication_category %}
+      {% for category in site.publication_category  %}
+        {% assign title_shown = false %}
+        {% for post in site.publications reversed %}
+          {% if post.category != category[0] %}
+            {% continue %}
+          {% endif %}
+          {% unless title_shown %}
+            <h2>{{ category[1].title }}</h2><hr />
+            {% assign title_shown = true %}
+          {% endunless %}
+          {% include publication-single.html %}
+        {% endfor %}
+      {% endfor %}
+    {% else %}
+      {% for post in site.publications reversed %}
+        {% include publication-single.html %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
+
+<script>
+function sortPublications(sortType) {
+  const timeSort = document.getElementById('time-sort');
+  const categorySort = document.getElementById('category-sort');
+  const timeButton = document.getElementById('sort-by-time');
+  const categoryButton = document.getElementById('sort-by-category');
+  
+  if (sortType === 'time') {
+    timeSort.style.display = 'block';
+    categorySort.style.display = 'none';
+    timeButton.style.backgroundColor = '#0066cc';
+    timeButton.style.color = 'white';
+    categoryButton.style.backgroundColor = '#ccc';
+    categoryButton.style.color = 'black';
+  } else {
+    timeSort.style.display = 'none';
+    categorySort.style.display = 'block';
+    categoryButton.style.backgroundColor = '#0066cc';
+    categoryButton.style.color = 'white';
+    timeButton.style.backgroundColor = '#ccc';
+    timeButton.style.color = 'black';
+  }
+}
+</script>
 
 
 

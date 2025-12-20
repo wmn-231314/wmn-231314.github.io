@@ -1,0 +1,30 @@
+{% include base_path %}
+
+<div class="publication-item" style="margin-bottom: 30px;">
+  <h2 class="publication-title" style="font-size: 18px; font-weight: bold; margin-bottom: 8px;">
+    {{ post.title }}
+  </h2>
+  
+  <p style="font-size: 14px; color: #666; margin-bottom: 6px;">
+    <i>{{ post.venue }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+  </p>
+  
+  {% if post.authors %}
+  <p style="font-size: 14px; margin-bottom: 8px;">
+    {{ post.authors }}
+  </p>
+  {% endif %}
+  
+  <p style="font-size: 14px; margin-top: 8px;">
+    {% if post.projectpage %}
+      <a href="{{ post.projectpage }}" style="text-decoration: none; color: #0066cc; margin-right: 15px;">[Project Page]</a>
+    {% endif %}
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" style="text-decoration: none; color: #0066cc; margin-right: 15px;">[arXiv]</a>
+    {% endif %}
+    {% if post.xurl %}
+      <a href="{{ post.xurl }}" style="text-decoration: none; color: #0066cc; margin-right: 15px;">[X]</a>
+    {% endif %}
+  </p>
+</div>
+
