@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="text-align: center; padding: 100px 20px;">
-  <h1>Curriculum Vitae</h1>
-  <p style="font-size: 18px; margin: 30px 0;">
-    <a href="{{ base_path }}/files/pdf/cv.pdf" class="btn btn--primary btn--large" style="text-decoration: none; padding: 15px 30px; font-size: 18px;">Download CV (PDF)</a>
-  </p>
-  <p style="color: #666; margin-top: 20px;">
-    Or <a href="{{ base_path }}/files/pdf/cv.pdf" style="color: #0066cc;">view directly in browser</a>
-  </p>
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="{{ base_path }}/files/pdf/cv.pdf" class="btn btn--primary" style="text-decoration: none;" download>Download CV (PDF)</a>
 </div>
+
+<iframe src="{{ base_path }}/files/pdf/cv.pdf" 
+        style="width: 100%; height: 80vh; border: 1px solid #ddd; border-radius: 4px;"
+        frameborder="0">
+  <p>Your browser does not support PDFs. 
+     <a href="{{ base_path }}/files/pdf/cv.pdf">Download the PDF</a> instead.
+  </p>
+</iframe>
