@@ -33,7 +33,11 @@ Feel free to reach out if you'd like to connect!
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 5px; color: gray;">NeurIPS 2025</p>
         <div style="height: 1px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 5px;">
-             <a href="https://arxiv.org/abs/2501.12345" style="text-decoration: none; color: blue;">[arXiv]</a>
+             <a href="https://diffusion-scaling.github.io/" style="text-decoration: none; color: blue;">[Project Page]</a>
+             <a href="https://github.com/wmn-231314/diffusion-data-constraint" style="text-decoration: none; color: blue; margin-left: 10px;">[Code]</a>
+             <a href="https://arxiv.org/abs/2507.15857" style="text-decoration: none; color: blue; margin-left: 10px;">[arXiv]</a>
+             <a href="/files/bibtex/diffusion-beats-autoregressive.bib" style="text-decoration: none; color: blue; margin-left: 10px;">[BibTeX]</a>
+             <a href="https://x.com/mihirp98/status/1947736993229885545" style="text-decoration: none; color: blue; margin-left: 10px;">[X]</a>
         </p>
     </div>
 </div>
@@ -56,7 +60,10 @@ Feel free to reach out if you'd like to connect!
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 5px; color: gray;">arXiv preprint, 2025</p>
         <div style="height: 1px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 10px;">
-             <a href="https://arxiv.org/abs/2501.12346" style="text-decoration: none; color: blue;">[arXiv]</a>
+             <a href="https://llm-liar.github.io/" style="text-decoration: none; color: blue;">[Project Page]</a>
+             <a href="https://github.com/yzhhr/llm-liar" style="text-decoration: none; color: blue; margin-left: 10px;">[Code]</a>
+             <a href="https://arxiv.org/abs/2509.03518" style="text-decoration: none; color: blue; margin-left: 10px;">[arXiv]</a>
+             <a href="/files/bibtex/can-llms-lie.bib" style="text-decoration: none; color: blue; margin-left: 10px;">[BibTeX]</a>
         </p>
     </div>
 </div>

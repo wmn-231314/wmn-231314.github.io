@@ -10,4 +10,5 @@ paperurl: 'https://arxiv.org/abs/2507.15857'
 projectpage: 'https://diffusion-scaling.github.io/'
 codeurl: 'https://github.com/wmn-231314/diffusion-data-constraint'
 bibtexurl: '/files/bibtex/diffusion-beats-autoregressive.bib'
+xurl: 'https://x.com/mihirp98/status/1947736993229885545'
 ---
