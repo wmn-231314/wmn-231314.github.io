@@ -1,7 +1,7 @@
 ---
 title: "Can LLMs Lie? Investigation beyond Hallucination"
 collection: publications
-category: manuscripts
+category: preprint
 permalink: /publication/2025-01-01-can-llms-lie
 date: 2025-01-01
 venue: 'arXiv preprint'

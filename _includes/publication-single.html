@@ -19,8 +19,14 @@
     {% if post.projectpage %}
       <a href="{{ post.projectpage }}" style="text-decoration: none; color: #0066cc; margin-right: 15px;">[Project Page]</a>
     {% endif %}
+    {% if post.codeurl %}
+      <a href="{{ post.codeurl }}" style="text-decoration: none; color: #0066cc; margin-right: 15px;">[Code]</a>
+    {% endif %}
     {% if post.paperurl %}
       <a href="{{ post.paperurl }}" style="text-decoration: none; color: #0066cc; margin-right: 15px;">[arXiv]</a>
+    {% endif %}
+    {% if post.bibtexurl %}
+      <a href="{{ post.bibtexurl }}" style="text-decoration: none; color: #0066cc; margin-right: 15px;">[BibTeX]</a>
     {% endif %}
     {% if post.xurl %}
       <a href="{{ post.xurl }}" style="text-decoration: none; color: #0066cc; margin-right: 15px;">[X]</a>
