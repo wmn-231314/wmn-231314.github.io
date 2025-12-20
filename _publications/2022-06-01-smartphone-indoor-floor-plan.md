@@ -1,7 +1,7 @@
 ---
 title: "Smartphone-Based Multi-level Indoor Floor Plan Construction via Acoustic Ranging and Inertial Sensing"
 collection: publications
-category: conferences
+category: preprints
 permalink: /publication/2022-06-01-smartphone-indoor-floor-plan
 excerpt: 'We develop a smartphone-based indoor floor plan construction system using acoustic ranging and inertial tracking.'
 date: 2022-06-01

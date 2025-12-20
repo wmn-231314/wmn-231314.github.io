@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="{{ base_path }}/files/pdf/cv.pdf" class="btn btn--primary" style="text-decoration: none;" download>Download CV (PDF)</a>
-</div>
-
 <iframe src="{{ base_path }}/files/pdf/cv.pdf" 
         style="width: 100%; height: 80vh; border: 1px solid #ddd; border-radius: 4px;"
         frameborder="0">
@@ -20,3 +16,7 @@ redirect_from:
      <a href="{{ base_path }}/files/pdf/cv.pdf">Download the PDF</a> instead.
   </p>
 </iframe>
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="{{ base_path }}/files/pdf/cv.pdf" class="btn btn--primary" style="text-decoration: none;" download>Download CV (PDF)</a>
+</div>

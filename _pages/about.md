@@ -13,13 +13,11 @@ I am a graduate student pursuing my M.S. in Electrical and Computer Engineering 
 
 Feel free to reach out if you'd like to connect!
 
-My resume is linked [here](/files/pdf/cv.pdf).
-
 ## Selected Publications (Full publication list available [here](/publications/))
 
 <div class="row">
     <div class="column" style="display: inline-block; vertical-align: top; width: 25%;">
-        <a href="/images/publications/diffusion-beats-autoregressive.png"><img src="/images/publications/diffusion-beats-autoregressive.png"></a>
+        <a href="/images/publications/diffusion-beats.png"><img src="/images/publications/diffusion-beats.png"></a>
     </div>
     <div class="column" style="display: inline-block; vertical-align: top; width: 70%; margin-left: 3%">
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-bottom: 0;"><b>Diffusion Beats Autoregressive in Data-Constrained Settings</b></p>
@@ -79,7 +77,6 @@ My resume is linked [here](/files/pdf/cv.pdf).
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0;">Pittsburgh, PA, Sep 2023 - May 2025</p>
         <div style="height: 0px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; color: gray;">GPA: 4.0/4.0</p>
-        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; color: gray;">Courses: Visual Learning and Recognition, Physics-Based Rendering, Robot Localization and Mapping, Geometry-based Methods in Vision</p>
     </div>
 </div>
 
@@ -98,7 +95,7 @@ My resume is linked [here](/files/pdf/cv.pdf).
         <div style="height: 0px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0;">Beijing, China, Sep 2019 - May 2023</p>
         <div style="height: 0px;"></div>
-        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; color: gray;">GPA: 3.9/4.0 (<span style="color: #E64545;">Top 3%</span>)</p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; color: gray;">GPA: 3.9/4.0 (<span style="color: #E64545;">Top 3%</span>)</p> 
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 0; color: gray;">Advisor: Prof. Ruipeng Gao</p>
     </div>
 </div>
