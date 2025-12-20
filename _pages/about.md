@@ -9,7 +9,9 @@ redirect_from:
 
 ## About Me
 
-I am a graduate student pursuing my M.S. in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu/), where I work as a Graduate Research Assistant in the [Pathak Research Group](https://www.cs.cmu.edu/~pathak/) under the supervision of Professor [Deepak Pathak](https://www.cs.cmu.edu/~pathak/). My research interests lie in Natural Language Processing, Computer Vision, and Generative Modeling for Robotics. Before coming to CMU, I completed my B.E. in Software Engineering at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), where I worked with Professor [Ruipeng Gao](https://faculty.bjtu.edu.cn/gaoruipeng/).
+I am a Graduate Research Assistant in the [Pathak Research Group](https://www.cs.cmu.edu/~pathak/) at [Carnegie Mellon University](https://www.cmu.edu/) under the supervision of Professor [Deepak Pathak](https://www.cs.cmu.edu/~pathak/). I received my M.S. in Electrical and Computer Engineering from CMU. Before coming to CMU, I completed my B.E. in Software Engineering at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), supervised by Professor [Ruipeng Gao](https://faculty.bjtu.edu.cn/gaoruipeng/).
+
+My research interests lie in Natural Language Processing, Computer Vision, and Generative Modeling for Robotics. I am currently interested in the fundamental principles of generative modeling, specifically in architectures and training objectives that can generalize to complex reasoning tasks with scaling abilities. In addition, I want to explore the trade-off between training data, token memory and compute.
 
 Feel free to reach out if you'd like to connect!
 
@@ -31,7 +33,6 @@ Feel free to reach out if you'd like to connect!
         <p style="display: inline-block; vertical-align: top; font-size: 12px; margin-top: 1px; color: gray;">* Equal contribution</p>
         <div style="height: 1px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 5px; color: gray;">NeurIPS 2025</p>
-        <div style="height: 1px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 5px;">
              <a href="https://diffusion-scaling.github.io/" style="text-decoration: none; color: blue;">[Project Page]</a>
              <a href="https://github.com/wmn-231314/diffusion-data-constraint" style="text-decoration: none; color: blue; margin-left: 10px;">[Code]</a>
@@ -58,7 +59,6 @@ Feel free to reach out if you'd like to connect!
                 <span style="color: gray;">Deepak Pathak</span>
         </p>
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 5px; color: gray;">arXiv preprint, 2025</p>
-        <div style="height: 1px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 10px;">
              <a href="https://llm-liar.github.io/" style="text-decoration: none; color: blue;">[Project Page]</a>
              <a href="https://github.com/yzhhr/llm-liar" style="text-decoration: none; color: blue; margin-left: 10px;">[Code]</a>
