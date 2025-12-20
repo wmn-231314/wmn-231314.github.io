@@ -31,8 +31,9 @@ Feel free to reach out if you'd like to connect!
                 <span style="color: gray;">Deepak Pathak</span>
         </p>
         <p style="display: inline-block; vertical-align: top; font-size: 12px; margin-top: 1px; color: gray;">* Equal contribution</p>
-        <div style="height: 1px;"></div>
+        <div style="height: 0.5px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 5px; color: gray;">NeurIPS 2025</p>
+        <div style="height: 0.5px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 5px;">
              <a href="https://diffusion-scaling.github.io/" style="text-decoration: none; color: blue;">[Project Page]</a>
              <a href="https://github.com/wmn-231314/diffusion-data-constraint" style="text-decoration: none; color: blue; margin-left: 10px;">[Code]</a>
@@ -58,7 +59,8 @@ Feel free to reach out if you'd like to connect!
                 <span style="color: gray;">Shantanu Jaiswal</span>,
                 <span style="color: gray;">Deepak Pathak</span>
         </p>
-        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 5px; color: gray;">arXiv preprint, 2025</p>
+        <p style="display: inline-block; vertical-align: top; font-size: 14px; margin-top: 5px; color: gray;">arXiv preprint</p>
+        <div style="height: 0.5px;"></div>
         <p style="display: inline-block; vertical-align: top; font-size: 16px; margin-top: 10px;">
              <a href="https://llm-liar.github.io/" style="text-decoration: none; color: blue;">[Project Page]</a>
              <a href="https://github.com/yzhhr/llm-liar" style="text-decoration: none; color: blue; margin-left: 10px;">[Code]</a>
