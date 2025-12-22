@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am a Graduate Research Assistant at [Carnegie Mellon University](https://www.cmu.edu/) under the supervision of Professor [Deepak Pathak](https://www.cs.cmu.edu/~dpathak/). I received my M.S. in Electrical and Computer Engineering from CMU. Before coming to CMU, I completed my B.E. in Software Engineering at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), supervised by Professor [Ruipeng Gao](https://faculty.bjtu.edu.cn/rjxy/8972.html).
+I am a Graduate Research Assistant at [Carnegie Mellon University](https://www.cmu.edu/) under the supervision of Professor [Deepak Pathak](https://www.cs.cmu.edu/~dpathak/) with close mentorship from [Mihir Prabhudesai](https://mihirp1998.github.io/). I received my M.S. in Electrical and Computer Engineering from CMU. Before coming to CMU, I completed my B.E. in Software Engineering at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), supervised by Professor [Ruipeng Gao](https://faculty.bjtu.edu.cn/rjxy/8972.html).
 
 My research interests lie in Natural Language Processing, Computer Vision, and Generative Modeling for Robotics. I am currently interested in the fundamental principles of generative modeling, specifically in architectures and training objectives that can generalize to complex reasoning tasks with scaling abilities. In addition, I want to explore the trade-off between training data, token memory and compute.
 
